@@ -16,5 +16,6 @@ frontend connected
 ********
 
 9) User email if you won't create 
-10) email zohaib@gmail.com
-11) pass : 12345678Aa
+10) userl zohaib@gmail.com
+11) user2 : email zohaib1@gmail.com
+12) pass : 12345678Aa
