@@ -1,0 +1,118 @@
+input.input-error,select.input-error{
+    border-color:'#fc8181' ;
+}
+
+.inputs{
+    width: 100%;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 19px;
+    border-color: blue;
+    margin-top: 7px;
+}
+.inputs:focus {
+    outline: none;
+}
+
+.validation-error{
+    color: red;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.emailInput{
+    padding-bottom: 22px;
+}
+.labelLoginForm{
+    font-size: 18px;
+}
+
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+/* sign up  css  start */
+.nameInputs {
+    width: 97%;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 19px;
+    border-color: blue;
+    margin-top: 7px;
+}
+.signupMainHeading{
+    margin-bottom: 15px !important;
+}
+.fNamelNameInputs{
+    align-items: end;
+        display: flex;
+        flex-direction: column;
+}
+.m-left{
+    margin-left: 8px;
+}
+.signupWrapper{
+    background-image: url('../../src/assets/images/2.jpg');
+    border-radius:10px ;
+    padding-bottom: 10px;
+    color:  #fff;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* home / main section css  */
+.homeMainWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+}
+.MuiDataGrid-columnHeaders.css-f3jnds-MuiDataGrid-columnHeaders {
+    /* background: azure; */
+    background-color: #171d44;
+    color: #fff;
+}
+.addPaymentBtn{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom:1rem;
+}
+
+.iconSection{
+    width: 75%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        cursor: pointer;
+}
+
+/* home table css  */
+.tableHeader{
+    background-color: #171d44;
+}
+.tableHeaderCol{
+    color: #fff !important;
+}
+.navbar{
+    background-color: #171d44;
+    height: 13vh;
+}
+.navHeading{
+    margin: 0;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 13vh !important;
+    font-size: 40px;
+}
+.optionalText{
+    margin: 10px;
+}
+/* logout btn wrpper */
+.logoutbtnwrapper{
+        margin: 24px 0 !important
+
+}

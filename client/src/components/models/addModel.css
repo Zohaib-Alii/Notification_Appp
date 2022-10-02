@@ -1,0 +1,63 @@
+.crossIcon{
+    display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background: #161D44;
+        border-top-right-radius: 17px;
+        border-top-left-radius: 17px;
+}
+.displayCol{
+    display: flex;
+    flex-direction: column;
+}
+.addPaymentInputs{
+    padding: 9px;
+    font-size: 20px;
+    border-radius: 6px;
+    border: 2px solid #2e3872;
+}
+
+.addPaymentInputs:focus {
+    outline: none;
+}
+
+.addPaymentTitle{
+    font-size: 18px;
+    color: white;
+    font-weight: 500;
+    margin-left: 12px;
+}
+.btnAddPayment{
+    display: flex;
+        justify-content: end;
+}
+.btnSmWrapper{
+    width: 40%;
+        margin-top: 14px;
+        display: flex;
+        justify-content: space-between;
+}
+.btnModel{
+height: 7vh;
+    padding: 7px 17px;
+    font-size: 18px;
+    background: beige;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+
+}
+
+.submitBtn{
+ background-color: #3249A0;   
+ color: aliceblue;
+}
+#createNewUserModelCloseIcon{
+    color: white;
+}
+.labelAddPaymentModel{
+font-size: 20px;
+    font-weight: 500;
+    margin: 6px 0;
+    color: #625f5f;
+}
