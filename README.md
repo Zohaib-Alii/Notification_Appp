@@ -4,7 +4,9 @@ steps
 2) cd server 
 3) npm install 
 4) nodemon index.js
----backend connected
+********
+backend connected
+********
 5)open another terminal 
 6)cd client 
 7)npm i 
