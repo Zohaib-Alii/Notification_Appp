@@ -7,7 +7,7 @@ steps
 ********
 backend connected
 ********
-5)open another terminal 
-6)cd client 
-7)npm i 
+5) open another terminal 
+6) cd client 
+7) npm i 
 8) npm start 
