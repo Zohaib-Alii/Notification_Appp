@@ -11,3 +11,10 @@ backend connected
 6) cd client 
 7) npm i 
 8) npm start 
+********
+frontend connected
+********
+
+User email if you won't create 
+email zohaib@gmail.com
+pass : 12345678Aa
